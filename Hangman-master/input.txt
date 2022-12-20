@@ -1,0 +1,4 @@
+6|Movies|Matrix;Inception;Avatar;Trainspotting;Goodfellas;Interstellar
+6|Names|Rachel;Monica;Phoebe;Joey;Chandler;Ross
+4|Sports|Tennis;Football;Hockey;Hiking
+4|Geographical locations|Hungary;Sweden;Sydney;Buckingham
